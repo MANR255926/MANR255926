@@ -1,6 +1,6 @@
 # 👋 Hi, Welcome to my GitHub!
 
-- 🌱 I’m currently learning **C++** and **Python** to strengthen my programming foundations.  
+- 🌱 I’m currently learning more about **C++** and **Python** to strengthen my programming skills.  
 - 🧑‍🎓 I’m studying at the **University of Management & Technology (UMT)**.  
 - 🤔 I’m looking for guidance and collaboration to improve my programming skills.  
 - 💬 Feel free to ask me about anything related to my repositories or the code I’ve written.  
