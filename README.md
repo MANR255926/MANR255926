@@ -1,24 +1,46 @@
-# 👋 Hi, Welcome to my GitHub!
+# Hello 👋, I'm Muhammad Allyan Nadeem  
+### 🎓 Student | Aspiring Developer  
 
-- 🌱 I’m currently learning **C++** and **Python** to strengthen my programming foundations.  
-- 🧑‍🎓 I’m studying at the **University of Management & Technology**.  
-- 🤔 I’m looking for guidance and collaboration to improve my programming skills.  
-- 💬 Feel free to ask me about anything related to my repositories or the code I’ve written.  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-allyan-nadeem-715a19333)  
-- 😄 Pronouns: He/Him *(or add yours)*  
-- ⚡ Fun fact: Debugging feels like detective work, and I love solving coding challenges!  
+🌱 Currently learning **C++** and **Python** to strengthen my programming foundations.  
+📖 Studying at the **University of Management and Technology (UMT)**.  
+🚀 Passionate about learning, building, and improving my programming skills.  
 
 ---
 
-## ⌨️ Typing Effect
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&width=600&lines=Learning+C%2B%2B+and+Python...;Open+to+collaboration+and+new+projects...;Debugging+is+like+being+a+detective...)](https://git.io/typing-svg)
+## 📫 Contact Me
+<p>
+  <a href="https://www.linkedin.com/in/muhammad-allyan-nadeem-715a19333" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/Allyan255926" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://www.instagram.com/allyan255926/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-allyan-nadeem-715a19333)
+## 🛠️ Skills
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://img1.pnghut.com/8/18/6/bxvE1KeDqf/logo-symbol-computer-programming-language.jpg" alt="C++" width="40" height="40"/>&nbsp;
+</p>
 
 ---
 
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=MANR255926&style=for-the-badge&color=blue)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MANR255926&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANR255926&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANR255926&theme=default" alt="GitHub Streak" />
+</p>
